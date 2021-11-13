@@ -7,6 +7,7 @@ namespace vs2019_pr_demo2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Oranges");
         }
     }
 }
